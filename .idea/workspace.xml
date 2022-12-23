@@ -4,29 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b0f591e-2e8b-42c5-85a9-480538752ff1" name="Changes" comment="front">
-      <change afterPath="$PROJECT_DIR$/images/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/.idea/images.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_9.png" afterDir="false" />
+    <list default="true" id="3b0f591e-2e8b-42c5-85a9-480538752ff1" name="Changes" comment="readme">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_stephenc_jcip_jcip_annotations_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_ua_parser_uap_java_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_content_type_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_lang_tag_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_nimbus_jose_jwt_9_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_oauth2_oidc_sdk_9_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_70.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_adapter_core_20_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_adapter_spi_20_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_authz_client_20_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_common_20_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_core_20_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_crypto_default_20_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_server_spi_20_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_server_spi_private_20_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_spring_boot_2_adapter_20_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_spring_boot_adapter_core_20_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_spring_boot_starter_20_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_keycloak_spring_security_adapter_20_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_keycloak_spring_boot_container_bundle_20_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_client_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_core_5_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/src/main/java/org/enset/customerservice/security/KeycloakAdapterConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-service/src/main/java/org/enset/customerservice/security/KeycloakSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/org/enset/inventoryservice/security/KeycloakAdapterConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/org/enset/inventoryservice/security/KeycloakSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oredr-service/src/main/java/org/enset/oredrservice/security/KeycloakAdapterConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oredr-service/src/main/java/org/enset/oredrservice/security/KeycloakSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oredr-service/src/main/java/org/enset/oredrservice/services/OAuthClientCredentialsFeignManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oredr-service/src/main/java/org/enset/oredrservice/services/OAuthFeignConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/billing/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/billing/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oredr-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oredr-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oredr-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/oredr-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +97,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/oredr-service/src/main/java/org/enset/oredrservice" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -87,10 +107,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DeLL\Music\GLSID S5\Services micro module\ms-enset\oredr-service\src\main\java\org\enset\oredrservice" />
+      <recent name="C:\Users\DeLL\Music\GLSID S5\Services micro module\ms-enset\inventory-service\src\main\java\org\enset\inventoryservice" />
       <recent name="C:\Users\DeLL\Music\GLSID S5\Services micro module\ms-enset\gateway-service\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.BillingApplication">
+  <component name="RunManager" selected="Spring Boot.OredrServiceApplication">
     <configuration name="BillingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="billing" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.enset.billing.BillingApplication" />
@@ -105,7 +127,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="CustomerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <module name="customer-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.enset.customerservice.CustomerServiceApplication" />
       <method v="2">
@@ -119,7 +141,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InventoryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="InventoryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <module name="inventory-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.enset.inventoryservice.InventoryServiceApplication" />
       <method v="2">
@@ -133,6 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.InventoryServiceApplication" />
+        <item itemvalue="Spring Boot.CustomerServiceApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -146,7 +174,9 @@
       <workItem from="1668628971284" duration="5597000" />
       <workItem from="1669151836497" duration="5944000" />
       <workItem from="1669588701532" duration="3463000" />
-      <workItem from="1670527245946" duration="3737000" />
+      <workItem from="1670527245946" duration="4038000" />
+      <workItem from="1670578370338" duration="51000" />
+      <workItem from="1670771891886" duration="6980000" />
     </task>
     <task id="LOCAL-00001" summary="front">
       <created>1670530288158</created>
@@ -155,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670530288158</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="readme">
+      <created>1670532361822</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670532361822</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +212,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="front" />
-    <option name="LAST_COMMIT_MESSAGE" value="front" />
+    <MESSAGE value="readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme" />
   </component>
 </project>
